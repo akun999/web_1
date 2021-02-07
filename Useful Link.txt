@@ -1,0 +1,2 @@
+https://medium.com/js-dojo/getting-started-with-vuejs-for-web-and-native-285dc64f0f0d
+https://medium.com/js-dojo/on-the-way-to-vue-js-create-your-first-project-app-in-vue-js-framework-e60b197b26d5
